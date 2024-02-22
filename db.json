@@ -1,0 +1,167 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Post",
+      "body": "Lorem ipsum dolor sit amet."
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  ],
+  "categories": [],
+  "products": [
+    {
+      "name": "Nước Cân Bằng Diếp Cá 2",
+      "price": "3333",
+      "image": "./assets/products/product-1.jpg",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "image": "./assets/products/product-1.jpg",
+      "category_id": 6,
+      "price": 15.99,
+      "name": "Nước Cân Bằng Trà Đen"
+    },
+    {
+      "id": "5",
+      "image": "./assets/products/product-2.jpg",
+      "category_id": 3,
+      "price": 25.99,
+      "name": "Nước Cân Bằng Trà Đen"
+    },
+    {
+      "id": "6",
+      "image": "./assets/products/product-3.jpg",
+      "category_id": 3,
+      "price": 22.99,
+      "name": "Gel Rửa Mặt Than Hoạt Tính"
+    },
+    {
+      "id": "7",
+      "image": "./assets/products/product-4.jpg",
+      "category_id": 4,
+      "price": 35.99,
+      "name": "Sữa Rửa Mặt Trà Xanh & Bạc Hà  "
+    },
+    {
+      "id": "8",
+      "image": "./assets/products/product-5.jpg",
+      "category_id": 4,
+      "price": 30.99,
+      "name": "Nước Tẩy Trang Trà Tràm"
+    },
+    {
+      "id": "9",
+      "image": "./assets/products/product-6.jpg",
+      "category_id": 5,
+      "price": 28.99,
+      "name": "Dầu Tẩy Trang Nụ Tầm Xuân"
+    },
+    {
+      "id": "10",
+      "image": "./assets/products/product-7.jpg",
+      "category_id": 5,
+      "price": 32.99,
+      "name": "Bột Chấm Mụn"
+    },
+    {
+      "id": "11",
+      "image": "./assets/products/product-8.jpg",
+      "category_id": 6,
+      "price": 16.99,
+      "name": "Tinh Chất Retinol 0.25%"
+    },
+    {
+      "id": "12",
+      "image": "./assets/products/product-9.jpg",
+      "category_id": 6,
+      "price": 19.99,
+      "name": "Tinh Chất Trà Xanh & Bạc Hà (BHA 2%)"
+    },
+    {
+      "id": "c7d8",
+      "name": "evasv",
+      "price": "121",
+      "image": "http://res.cloudinary.com/derz9qdf3/image/upload/v1708520847/Cloudinary-React/poh1jkclbnsraoqpctzw.jpg",
+      "category_id": "e2d2"
+    },
+    {
+      "id": "c7d8",
+      "name": "thuốc tây",
+      "price": "121",
+      "image": "http://res.cloudinary.com/derz9qdf3/image/upload/v1708520847/Cloudinary-React/poh1jkclbnsraoqpctzw.jpg",
+      "category_id": "e2d2"
+    },
+    {
+      "name": "emdev",
+      "price": "124124",
+      "image": "http://res.cloudinary.com/derz9qdf3/image/upload/v1708581854/Cloudinary-React/gh9jl7oitwuwqvjinkf1.jpg",
+      "id": "97b7"
+    }
+  ],
+  "carts": [],
+  "orders": [
+   
+    {
+      "id": "bb73",
+      "firstname": "",
+      "lastname": "",
+      "address": "",
+      "email": "",
+      "phone_num": "",
+      "total_amout": "0",
+      "status": "đã giao"
+    },
+   
+    {
+      "id": "f764",
+      "firstname": "123",
+      "lastname": "123",
+      "address": "123",
+      "email": "123",
+      "phone_num": "",
+      "total_amout": "16"
+    },
+    {
+      "id": "3397",
+      "firstname": "124",
+      "lastname": "124",
+      "address": "124",
+      "email": "124",
+      "phone_num": "124",
+      "total_amout": "đã giao"
+    },
+    {
+      "id": "0d20",
+      "firstname": "Lê",
+      "lastname": "Nguyên",
+      "address": "Thôn Tri C1 xã Dliê Yang,huyện Eahleo",
+      "email": "nguyen11a72k4@gmail.com",
+      "phone_num": "0367890167",
+      "total_amout": "32"
+    },
+    {
+      "id": "89c3",
+      "firstname": "124124",
+      "lastname": "124124",
+      "address": "124124124",
+      "email": "124124",
+      "phone_num": "124124",
+      "total_amout": "0"
+    }
+  ]
+}
